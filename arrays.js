@@ -9,7 +9,7 @@ var addme = "three musketeers"
 
 //#1
 function addElementToBeginningOfArray(chocolateBars, addme) {
-  chocolateBars.unshift(addme)
+  [chocolateBars.unshift(addme)]
 }
 
 //#6
