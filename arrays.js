@@ -7,11 +7,13 @@ var chocolateBars = [
   
 var addme = "three musketeers"
 
+//#1
 function addElementToBeginningOfArray(chocolateBars, addme) {
-  chocolateBars.push(addme)
+  chocolateBars.unshift(addme)
 }
 
-function addElementToBeginningOfArray (chocolateBars, addme) {
+//#6
+function addElementToBeginningOfArray (chocolateBars, addme) { 
   [addme, ...chocolateBars]
 }
   
