@@ -5,4 +5,4 @@ var chocolateBars = [
   'skittles'
 ]
 
-Function addElementToBeginningOfArray
+Function (addElementToBeginningOfArray)
