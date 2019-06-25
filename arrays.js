@@ -5,4 +5,10 @@ var chocolateBars = [
   'skittles'
 ]
 
-Function (addElementToBeginningOfArray)
+Function addElementToBeginningOfArray (chocolateBars, ) {
+  
+}
+
+Function destructiveAddElementToBeginningOfArray (chocolateBars, ) {
+  
+}
