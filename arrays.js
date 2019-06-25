@@ -1,12 +1,13 @@
 var chocolateBars = [ 
   'snickers',
-  'hundredgrand',
+  'hundred grand',
   'kitkat',
   'skittles'
 ]
+var addme = "three musketeers"
 
-function addElementToBeginningOfArray (chocolateBars, ) {
-  
+function addElementToBeginningOfArray (addme,chocolateBars) {
+  [addme, ...chocolateBars]
 }
 
 function destructiveAddElementToBeginningOfArray (chocolateBars, ) {
